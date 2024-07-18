@@ -1,4 +1,4 @@
-# IA-Image-Generation-Angular
+# IA-Image-Generation-KOTLIN-ANGULAR-NESTJS
 
 ## Proyecto Integrador: Aplicación de Generación de Imágenes con Inteligencia Artificial basada en Texto
 
